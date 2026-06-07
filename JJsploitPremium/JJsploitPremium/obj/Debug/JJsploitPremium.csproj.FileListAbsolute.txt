@@ -1,0 +1,10 @@
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\Debug\JJsploitPremium.csproj.AssemblyReference.cache
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\Debug\JJsploitPremium.Properties.Resources.resources
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\Debug\JJsploitPremium.csproj.GenerateResource.cache
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\Debug\JJsploitPremium.csproj.CoreCompileInputs.cache
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\Debug\JJsploitPremium.exe.config
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\Debug\JJsploitPremium.exe
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\Debug\JJsploitPremium.pdb
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\Debug\JJsploitPremium.exe
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\Debug\JJsploitPremium.pdb
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\Debug\JJsploitPremium.exe.config
