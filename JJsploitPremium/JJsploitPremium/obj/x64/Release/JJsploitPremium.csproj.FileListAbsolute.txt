@@ -1,0 +1,16 @@
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\x64\Release\JJsploitPremium.exe.config
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\x64\Release\JJsploitPremium.exe.manifest
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\x64\Release\JJsploitPremium.application
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\x64\Release\JJsploitPremium.exe
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\x64\Release\JJsploitPremium.pdb
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.csproj.AssemblyReference.cache
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJSploitPremium.Properties.Resources.resources
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.csproj.GenerateResource.cache
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.csproj.CoreCompileInputs.cache
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.TrustInfo.xml
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.exe.manifest
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.application
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.exe
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.pdb
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\obj\x64\Release\JJsploitPremium.exe.config
+C:\Users\Alexe\source\repos\JJsploitPremium\JJsploitPremium\bin\x64\Release\Assets\default_background.png
